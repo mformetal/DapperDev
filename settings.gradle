@@ -1,3 +1,3 @@
 rootProject.name = 'DapperDev'
 
-include "backend", "frontend"
+include "backend"
